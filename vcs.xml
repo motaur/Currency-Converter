@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/AcademyTLV/fundamentals-2018-exercise/tree/ex-3-list" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/fungeki/NegeVibeForKotlin" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\levan\Google Drive\Projects\Android\AndroidAcademy" />
+    <option name="cloneParentDir" value="C:\Users\levan\Google Drive\Projects\Android" />
   </component>
 </application>
